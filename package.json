@@ -1,0 +1,8 @@
+{
+"name":"solid-pankake",
+"main":"main.js",
+"scripts":{
+"start":"node main.js"},
+"description":"",
+"version":"1.0.1"
+}
